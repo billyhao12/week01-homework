@@ -1,2 +1,5 @@
 # week01-homework
-Week 01 Homework for bootcamp
+Horiseon Online Marketing
+
+In this assignment, I was tasked with refactoring code of an existing website to make it more accessible.
+I accomplished this by consolidating various CSS classes, using more semantic tags, and adding comments to the HTML file.
